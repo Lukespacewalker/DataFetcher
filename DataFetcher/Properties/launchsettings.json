@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "DataFetcher (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "DataFetcher (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
